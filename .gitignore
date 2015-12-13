@@ -55,3 +55,16 @@ docs/_build/
 
 # PyBuilder
 target/
+
+
+
+MNIST_data/*
+Papers/*
+Future/*
+.DS_Store
+debug*
+.ipynb_checkpoints/*
+input_data.py
+mnist.py
+
+
