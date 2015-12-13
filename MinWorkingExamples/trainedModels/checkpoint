@@ -1,0 +1,2 @@
+model_checkpoint_path: "./trainedModels/nnS_mnist1.ckpt"
+all_model_checkpoint_paths: "./trainedModels/nnS_mnist1.ckpt"
